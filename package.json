@@ -1,0 +1,20 @@
+{
+  "name": "mysticmind-gpt-pre-training",
+  "version": "1.0.0",
+  "description": "mysticmind gpt is a specialized gpt language model that has been fine-tuned on occult knowledge and esoteric information.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gpt",
+    "ai",
+    "occult"
+  ],
+  "author": "witchie",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "openai": "^4.14.2"
+  }
+}
